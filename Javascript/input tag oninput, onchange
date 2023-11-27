@@ -1,0 +1,4 @@
+oninput과 onchange의 차이점
+
+oninput : input 태그의 값이 바뀔 때마다 발생
+onchange : input태그의 값이 변경되고 포커스에서 벗어날 때 발생
