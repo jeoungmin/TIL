@@ -1,0 +1,2 @@
+select로 조회한 컬럼들을 자동으로 VO로 변경해서 담아준다. SQL 결과를 객체로 변환
+spring에 카멜케이스 속성을 지정해주면 컬럼->vo properties로 카멜표기법으로 변환해줌. user_id -> userId
